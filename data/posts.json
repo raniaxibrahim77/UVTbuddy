@@ -1,0 +1,153 @@
+[ {
+  "id" : 86,
+  "title" : "How strict is attendance for seminars?",
+  "description" : "I’m new at UVT. For most courses, is attendance checked only in seminars or also in lectures? Any tips from older students?",
+  "course" : "Academic Skills",
+  "major" : "CS",
+  "createdAt" : "2026-01-06T10:30:00",
+  "tags" : [ "seminar", "first-year", "attendance" ],
+  "imageUrls" : [ ],
+  "author" : {
+    "id" : 5,
+    "name" : "Raul",
+    "email" : "raul@test.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "STUDENT"
+  },
+  "type" : "QUESTION",
+  "language" : "EN"
+}, {
+  "id" : 87,
+  "title" : "Tip: Surviving the first exam session",
+  "description" : "Start early with weekly summaries, solve exercises from seminars, and ask questions during office hours. Small steps daily beats cramming.",
+  "course" : null,
+  "major" : "CS",
+  "createdAt" : "2026-01-05T18:15:00",
+  "tags" : [ "exams", "productivity", "study-tips" ],
+  "imageUrls" : [ ],
+  "author" : {
+    "id" : 3,
+    "name" : "Student",
+    "email" : "student@test.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "STUDENT"
+  },
+  "type" : "TIP",
+  "language" : "EN"
+}, {
+  "id" : 88,
+  "title" : "Databases: Normalization summary (1NF–3NF)",
+  "description" : "Quick notes:\\n• 1NF: atomic values\\n• 2NF: no partial dependency\\n• 3NF: no transitive dependency\\nAlso revise functional dependencies & candidate keys.",
+  "course" : "Databases",
+  "major" : "CS",
+  "createdAt" : "2026-01-04T14:00:00",
+  "tags" : [ "databases", "notes", "sql" ],
+  "imageUrls" : [ ],
+  "author" : {
+    "id" : 2,
+    "name" : "Ibrahim",
+    "email" : "ibrahim@test.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "ADMIN"
+  },
+  "type" : "NOTE",
+  "language" : "EN"
+}, {
+  "id" : 89,
+  "title" : "Where can I find Erasmus deadlines and contact emails?",
+  "description" : "Is there a single page where UVT lists Erasmus deadlines, required documents, and who to contact? I’m getting lost between links.",
+  "course" : null,
+  "major" : null,
+  "createdAt" : "2026-01-04T10:20:00",
+  "tags" : [ "documents", "erasmus", "contacts" ],
+  "imageUrls" : [ ],
+  "author" : {
+    "id" : 5,
+    "name" : "Raul",
+    "email" : "raul@test.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "STUDENT"
+  },
+  "type" : "QUESTION",
+  "language" : "EN"
+}, {
+  "id" : 90,
+  "title" : "Operating Systems: Processes vs Threads (quick notes)",
+  "description" : "Processes have separate memory; threads share memory within a process. Context switching between processes is heavier than threads.",
+  "course" : "Operating Systems",
+  "major" : "CS",
+  "createdAt" : "2026-01-03T12:00:00",
+  "tags" : [ "processes", "notes", "os", "threads" ],
+  "imageUrls" : [ ],
+  "author" : {
+    "id" : 3,
+    "name" : "Student",
+    "email" : "student@test.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "STUDENT"
+  },
+  "type" : "NOTE",
+  "language" : "EN"
+}, {
+  "id" : 92,
+  "title" : "test1",
+  "description" : "test1",
+  "course" : "OS",
+  "major" : "CS",
+  "createdAt" : "2026-01-15T10:00:38.393418",
+  "tags" : [ ],
+  "imageUrls" : [ "/uploads/posts/92/f4e0d7bd-1108-48ed-adf0-01d2c27e1340-flow-create-postpng.png" ],
+  "author" : {
+    "id" : 3,
+    "name" : "Student",
+    "email" : "student@test.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "STUDENT"
+  },
+  "type" : "NOTE",
+  "language" : null
+}, {
+  "id" : 93,
+  "title" : "ttt",
+  "description" : "testtest",
+  "course" : "p3",
+  "major" : "CS",
+  "createdAt" : "2026-01-16T22:36:27.903574",
+  "tags" : [ ],
+  "imageUrls" : [ ],
+  "author" : {
+    "id" : 6,
+    "name" : "test",
+    "email" : "test1@test2.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "STUDENT"
+  },
+  "type" : "QUESTION",
+  "language" : null
+}, {
+  "id" : 94,
+  "title" : "delete",
+  "description" : "delete",
+  "course" : "OS",
+  "major" : "CS",
+  "createdAt" : "2026-01-17T10:02:37.780861",
+  "tags" : [ ],
+  "imageUrls" : [ ],
+  "author" : {
+    "id" : 6,
+    "name" : "test",
+    "email" : "test1@test2.com",
+    "major" : null,
+    "availability" : null,
+    "role" : "STUDENT"
+  },
+  "type" : "QUESTION",
+  "language" : null
+} ]
