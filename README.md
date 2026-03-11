@@ -22,7 +22,7 @@ Main Features
 How to Run the Backend
 1. Make sure Java 17+ is installed
 2. In the project root, run:
-   ./gradlew bootRun
+   ./gradlew bootRun --args='--spring.profiles.active=mysql'
 3. Backend runs at:
    http://localhost:8080
 
@@ -32,7 +32,7 @@ How to Run the Frontend
 2. Install dependencies:
    npm install
 3. Start the Angular application:
-   ng serve --proxy-config proxy.conf.json
+   npm start
 4. Frontend runs at:
    http://localhost:4200
 
